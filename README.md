@@ -2,7 +2,6 @@
 
 #### About
 
-It's just some markdown logos that (Free Use)
 
 Example :
 
@@ -23,4 +22,4 @@ Models :
 ![Static Badge](https://img.shields.io/badge/JavaScript-FFD600?style=social&logo=Javascript&logoColor=FFD600&labelColor=white)
  
 
-Request the model and language and don't forget the colors.
+[Site para fazer as logos](https://shields.io/badges/static-badge)
